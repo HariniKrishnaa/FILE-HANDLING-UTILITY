@@ -45,3 +45,5 @@ Report Generation: Generating and exporting reports in text or CSV format from a
 ![Image](https://github.com/user-attachments/assets/91682367-dda9-4ad8-ab98-e0faf145db64)
 
 ![Image](https://github.com/user-attachments/assets/148d800b-e4ae-4d7f-84d1-907e01da7f04)
+
+![Image](https://github.com/user-attachments/assets/906553ee-8c87-4a67-96a6-f7fc714f1f1d)
