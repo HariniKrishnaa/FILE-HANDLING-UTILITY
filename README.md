@@ -13,7 +13,7 @@
 *MENTOR* : NEELA SANTHOSH KUMAR 
 
 *DESCRIPTION* : Platform Used: Visual Studio Code (VS Code)
-Programming Language: Java
+Programming Language: Java.
 
 Project Description:
 This project is a beginner-level implementation of file handling in Java. The main objective was to understand and perform basic file operations such as creating a file, writing data into the file, reading data from the file, and modifying the file content by overwriting it. The project was entirely developed and executed on the Visual Studio Code (VS Code) platform, using Java as the core programming language.
