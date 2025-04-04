@@ -1,0 +1,4 @@
+I am learning file handling for the first time.
+ I recently got an internship at CODTECH IT SOLUTIONS, 
+ where my first task is to work with file handling . This is a new and exciting
+ experience for me.I beleive learning will help me in my programming journey. I am exicted to improve my skills and gain hands on experience.
