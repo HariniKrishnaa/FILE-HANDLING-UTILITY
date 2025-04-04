@@ -38,3 +38,8 @@ Saving User Input or Forms: Storing data entered by users into local files when 
 Local File Management Systems: Applications like text editors or lightweight data organizers use file handling to save and retrieve documents.
 
 Report Generation: Generating and exporting reports in text or CSV format from applications.
+
+
+*output* :
+
+![Image](https://github.com/user-attachments/assets/91682367-dda9-4ad8-ab98-e0faf145db64)
